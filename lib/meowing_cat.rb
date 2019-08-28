@@ -1,3 +1,3 @@
 class Cats
-  attr_accessor:cats
+  attr_accessor :cat
 end
