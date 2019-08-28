@@ -1,1 +1,3 @@
-## code your solution here. 
+class Cats
+  attr_accessor :cat
+end
